@@ -39,7 +39,7 @@ Make sure your MaryTTS installation was cloned from https://github.com/HaraldBer
 
 
 
-### The following are generic voice packaging instructions, slightly modified in this case. When the Norwegian language files for Marytts are finished and merged these instructions should apply.
+### The following are generic voice packaging instructions. When the Norwegian language files for Marytts are finished and merged these instructions should apply.
 
 ### Building the voice
 
